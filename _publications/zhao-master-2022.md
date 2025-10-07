@@ -1,7 +1,7 @@
 ---
 title: "碳酸盐岩双重孔隙网络模型与微观气水流动研究"
 collection: publications
-category: dissertation
+category: books
 permalink: /publication/zhao-master-2022
 excerpt: 'this is a test'
 date: 2025-06-01
