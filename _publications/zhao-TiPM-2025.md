@@ -3,7 +3,6 @@ title: "Modeling of permeability and formation factor of carbonate digital rocks
 collection: publications
 category: manuscripts
 permalink: /publication/zhao-TiPM-2025
-![this is a test!](images/profile-2.png)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-04-08
 venue: 'Transport in Porous Media'
