@@ -1,5 +1,5 @@
 ---
-title: "碳酸盐岩双重孔隙网络模型与微观气水流动研究"
+title: "碳酸盐岩双重孔隙网络模型与微观气水流动研究 (Study on dual-pore-network model and microscopic gas-water flow in carbonate rocks)"
 collection: publications
 category: dissertation
 permalink: /publication/zhao-master-2022
