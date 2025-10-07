@@ -87,7 +87,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  Dissertation:
+  dissertation:
     title: 'Dissertation'
 
 # Site Settings
