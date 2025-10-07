@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Hydrogeology, Utrecht University, 2012
+* M.S. in Fluid Mechanics, University of Science and Technology of China (中国科学技术大学), 2008
+* B.S. in Engineering Mechanics, Xi'an Jiaotong University (西安交通大学), 2005
 
 Work experience
 ======
