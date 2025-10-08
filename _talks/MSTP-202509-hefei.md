@@ -10,7 +10,6 @@ location: "Hefei, China"
 ---
 
 Flow and Transport in Multiscale Pore Structures: Model Development and Simulations   
-[My presentation can be found here](http://czqin.github.io/files/MSTP-202509-hefei-ppt.pdf)
 <p align="left">
   <img src="/images/MSTP-202509-hefei-2.jpg" alt="Session chair" width="500">
 </p>
