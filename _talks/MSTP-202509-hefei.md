@@ -3,7 +3,7 @@ title: "Keynote talk at The Fifth International Symposium on Multiscale Simulati
 collection: talks
 type: "Talk"
 permalink: /talks/MSTP-202509-hefei
-slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-ppt.pdf'
+slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-program.pdf'
 venue: "Lebanshan Hotel"
 date: 2025-09-28 to 2025-09-30
 location: "Hefei, China"
