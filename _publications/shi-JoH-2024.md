@@ -6,7 +6,7 @@ permalink: /publication/shi-JoH-2024
 excerpt: 'Subsurface porous media; Permeability; Breakthrough curve; Multiscale digital rock; Pore-network-continuum hybrid model; Microporosity'
 date: 2024-02-17
 venue: 'Journal of Hydrology'
-slidesurl: 'http://czqin.github.io/files/shi-JoH-2024.pdf'
+slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
 paperurl: 'http://czqin.github.io/files/shi-JoH-2024.pdf'
 citation: 'Bowen Shi, Han Jiang, Bo Guo, Jian Tian, Chao-Zhong Qin, Modeling of flow and transport in multiscale digital rocks aided by grid coarsening of microporous domains, Journal of Hydrology, 633, 131003, 2024, https://doi.org/10.1016/j.jhydrol.2024.131003.'
 ---
