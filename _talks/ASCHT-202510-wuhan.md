@@ -3,6 +3,7 @@ title: "Invited talk at The tenth Asian Symposium on Computational Heat Transfer
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/ASCHT-202510-wuhan
+slidesurl: 'http://czqin.github.io/files/ASCHT-202510-wuhan-program.pdf'
 venue: "Optics Valley Kingdom Plaza Hotel"
 date: 2025-10-9 to 2025-10-13
 location: "Wuhan, China"
