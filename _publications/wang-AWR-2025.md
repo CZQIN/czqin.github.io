@@ -1,7 +1,7 @@
 ---
 title: "Experimental validation of an image-based dynamic pore-network model for spontaneous imbibition in sandstones"
 collection: publications
-category: papers
+category: manuscripts
 permalink: /publication/wang-AWR-2025
 excerpt: 'Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation'
 date: 2024-11-25
