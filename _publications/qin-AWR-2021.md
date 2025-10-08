@@ -18,11 +18,11 @@ The dynamic pore-network modeling, as an efficient pore-scale tool, has been use
 
 <div style="overflow: auto;">
   <video width="500" height="350" controls>
-    <source src="/images/SI-DPNM-wang-AWR-2021-1.mp4" type="video/mp4">
+    <source src="/images/qin-AWR-2021-1.mp4" type="video/mp4">
     <p>抱歉，您的浏览器无法播放此视频。</p>
   </video>
   <video width="500" height="350" controls>
-    <source src="/images/SI-DPNM-wang-AWR-2021-2.mp4" type="video/mp4">
+    <source src="/images/qin-AWR-2021-2.mp4" type="video/mp4">
     <p>抱歉，您的浏览器无法播放此视频。</p>
   </video>
 </div>
