@@ -1,7 +1,7 @@
 ---
 title: "Invited talk at The tenth Asian Symposium on Computational Heat Transfer and Fluid Flow (第十届亚洲计算传热与流体流动会议)"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/ASCHT-202510-wuhan
 slidesurl: 'http://czqin.github.io/files/ASCHT-202510-wuhan-program.pdf'
 venue: "Optics Valley Kingdom Plaza Hotel"
