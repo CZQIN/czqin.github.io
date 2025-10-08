@@ -6,7 +6,7 @@ permalink: /publication/zhao-TiPM-2025
 excerpt: 'Multiscale pore structures；Permeability and formation factor；Multiscale-pore-network model；Pore-network-continuum model；Microporosity'
 date: 2025-04-08
 venue: 'Transport in Porous Media'
-slidesurl: 'http://czqin.github.io/files/zhao-TiPM-2025.pdf'
+slidesurl: # 'http://czqin.github.io/files/zhao-TiPM-2025.pdf'
 paperurl: 'http://czqin.github.io/files/zhao-TiPM-2025.pdf'
 bibtexurl: # 'http://czqin.github.io/files/bibtex1.bib'
 citation: 'Zhao, X., Shi, B., Wang, X. et al. Modeling of Permeability and Formation Factor of Carbonate Digital Rocks: Dual-Pore-Network and Pore-Network-Continuum Models. Transp Porous Med 152, 37 (2025). https://doi.org/10.1007/s11242-025-02177-1'
