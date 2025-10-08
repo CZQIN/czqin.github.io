@@ -1,5 +1,5 @@
 ---
-title: "Invited talk at The tenth Asian Symposium on Computational Heat Transfer and Fluid Flow (第十届亚洲计算传热与流体流动会议)"
+title: "Invited talk at The Tenth Asian Symposium on Computational Heat Transfer and Fluid Flow (第十届亚洲计算传热与流体流动会议)"
 collection: talks
 type: "Talk"
 permalink: /talks/ASCHT-202510-wuhan
