@@ -11,5 +11,5 @@ location: "Hefei, China"
 
 Flow and Transport in Multiscale Pore Structures: Model Development and Simulations
 <p align="center">
-  <img src="/images/MSTP-202509-hefei-2.jpeg" alt="Session chair" width="500">
+  <img src="/images/MSTP-202509-hefei-2.jpg" alt="Session chair" width="500">
 </p>
