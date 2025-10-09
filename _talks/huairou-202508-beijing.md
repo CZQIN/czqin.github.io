@@ -1,16 +1,16 @@
 ---
-title: "Keynote talk at The Fifth International Symposium on Multiscale Simulations of Thermophysics (第五届热物理多尺度模拟国际会议)"
+title: "Invited lecture at Huairou Laboratory"
 collection: talks
 type: "Talk"
-permalink: /talks/MSTP-202509-hefei
-slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-program.pdf'
-venue: "Lebanshan Hotel"
-date: 2025-09-28 to 2025-09-30
-location: "Hefei, China"
+permalink: /talks/huairou-202508-beijing
+slidesurl: # 'http://czqin.github.io/files/huairou-202508-beijing.pdf'
+venue: "Huairou Laboratory"
+date: 2025-08-25
+location: "Beijing, China"
 ---
 
-Flow and Transport in Multiscale Pore Structures: Model Development and Simulations  
-[My presentation can be found here](http://czqin.github.io/files/MSTP-202509-hefei-ppt.pdf)  
+Multiscale pore structures and multiscale numerical modeling of flow and transport (多尺度孔隙结构与流动传输数值研究) 
+[My presentation can be found here](http://czqin.github.io/files/huairou-202508-beijing.pdf)  
 <p align="left">
-  <img src="/images/MSTP-202509-hefei-2.jpg" alt="Session chair" width="500">
+  <img src="/images/huairou-202508-beijing.jpg" alt=" " width="500">
 </p>
