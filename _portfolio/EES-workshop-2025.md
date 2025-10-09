@@ -4,3 +4,8 @@ excerpt: "2025-8-29 at Z123, Huxi Campus of Chongqing University<br/><img src='/
 collection: portfolio
 ---
 
+[The program can be found here](http://czqin.github.io/files/EES-workshop-2025-program.pdf)  
+<p align="left">
+  <img src="/images/EES-workshop-2025-1.png" alt=" " width="500">
+</p>
+
