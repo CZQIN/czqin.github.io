@@ -6,6 +6,6 @@ collection: portfolio
 
 [The program can be found here](http://czqin.github.io/files/rainer-KC-lecture-202403-flyer.pdf)  
 <p align="left">
-  <img src="/images/EES-workshop-2025-1.png" alt=" " width="500">
+  <img src="/images/rainer-KC-lecture-202403-2.jpg" alt="Chongqing Teahouse (重庆茶馆)" width="500">
 </p>
 
