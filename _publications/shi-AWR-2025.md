@@ -1,18 +1,18 @@
 ---
-title: "Experimental validation of an image-based dynamic pore-network model for spontaneous imbibition in sandstones"
+title: "The pore-network-continuum modeling of two-phase flow properties for multiscale digital rocks"
 collection: publications
 category: manuscripts
-permalink: /publication/wang-AWR-2025
-excerpt: 'Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation'
-date: 2024-11-25
+permalink: /publication/shi-AWR-2025
+excerpt: 'Multiscale porous media; digital rocks; pore-network-continuum model; two-phase flow; microporosity; relative permeability'
+date: 2025-10-4
 venue: 'Advances in Water Resources'
-paperurl: 'http://czqin.github.io/files/wang-AWR-2025.pdf'
-citation: 'Xin Wang, Chaozhong Qin, Bo Guo, Sorin Pop, Jian Tian, Experimental validation of an image-based dynamic pore-network model for spontaneous imbibition in sandstones, Advances in Water Resources, 195, 104859, 2025, https://doi.org/10.1016/j.advwatres.2024.104859.'
+paperurl: 'http://czqin.github.io/files/shi-AWR-2025.pdf'
+citation: 'Bowen Shi, Jianqi Rong, Han Jiang, Bo Guo, S. Majid Hassanizadeh, Chao-Zhong Qin, The pore-network-continuum modeling of two-phase flow properties for multiscale digital rocks, Advances in Water Resources, 2025, 105138, https://doi.org/10.1016/j.advwatres.2025.105138.'
 ---
 
-Spontaneous imbibition (SI) in porous media driven by capillary action is pivotal to many subsurface and industrial applications. The pore-scale modeling has been playing a vital role in unraveling wetting dynamics in pore spaces, which will eventually determine flow parameters and behaviors. In this paper, we mainly contribute to validating an image-based dynamic pore-network model (PNM) for SI. For the scenario of water imbibing into dry porous media, we measured imbibition rates and residual saturations of three types of sandstones, namely, Nubian, Bentheimer and Upper Berea as the validation data. Then, we extracted the pore networks of the ??CT images of the same core samples used in the lab experiments, to reduce heterogeneity uncertainties. We demonstrate that using either a uniform or a lognormal distribution of effective contact angles that is consistent with experimental measurements in the literature, the dynamic PNM can accurately predict experimental imbibition rates and residual saturations. Given the challenge of experimentally determining effective contact angles, we further investigate the effects of these two plausible contact angle distributions on the predictions of pore-scale wetting events, relative permeability, capillary pressure, and imbibition rates for more viscous nonwetting fluids. Although uncertainties remain in the preset of effective contact angles, we show that the validated dynamic PNM can provide quantitative and valuable insights into pore-scale wetting dynamics.
+Many subsurface formations and reservoirs exhibit multiscale and heterogeneous pore structures, such as soils, carbonate rocks, shales and tight sandstones. Understanding and predicting their two-phase flow properties are crucial to underground applications including contamination remediation, oil and gas recovery, and geological storage of carbon dioxide. For a multiscale digital rock, pores with a wide pore-size distribution spanning several orders of magnitude cannot be visualized in one image, due to the trade-off between image resolution and field of view. However, a large number of unresolved pores (i.e. microporosity) can challenge the modeling of flow and transport. We develop an efficient pore-network-continuum model (PNCM) for quasi-static two-phase flow in multiscale digital rocks. The resolved pores and microporosity are represented by a pore network and continuum grids, respectively. Instead of costly CT-based characterization, we propose to use the bimodal van Genuchten model of mercury intrusion capillary pressure to infer the pore-size distribution of heterogeneous microporosity. The PNCM is applied to a laminated sandstone with synthesized homogeneous microporosity and an Estaillades carbonate rock with heterogeneous microporosity. Both single-phase and two-phase flow properties including absolute permeability, formation factor, resistivity index, capillary pressure, and relative permeability are predicted and compared with experimental data. The good agreement demonstrates the robustness and reliability of the developed PNCM. Using the case studies, we illustrate how microporosity influences and determines two-phase flow properties.
 
 <video width="640" height="360" controls>
-  <source src="/images/SI-DPNM-wang-AWR-2025.mp4" type="video/mp4">
+  <source src="/images/shi-AWR-2025.mp4" type="video/mp4">
   <p>抱歉，您的浏览器无法播放此视频。</p>
 </video>
