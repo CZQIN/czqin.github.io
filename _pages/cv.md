@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Executive Associate Editors-in-Chief 
+* Executive Associate Editors-in-Chief of [Earth Energy Science](https://www.sciencedirect.com/journal/earth-energy-science)
