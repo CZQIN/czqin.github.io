@@ -11,6 +11,9 @@ Hi, I am Chao-Zhong Qin, a full Professor of School of Resources and Safety Engi
 
 My research focuses on flow and transport phenomena in diverse porous media, including geological formations and artificial materials. I am dedicated to developing image-based numerical models, advancing digital rock physics, and building cutting-edge numerical tools to gain deep insights into pore-scale physics. My work aims to bridge the gap between pore-scale and average-scale processes in porous media. Key applications include unconventional oil and gas recovery, fuel cells, sequestration of carbon dioxide, underground hydrogen storage, and design of porous materials.
 
+---
+**Ongoing Recruitment Announcement**
+---
 
 The School of Resources and Saftey Engineering at [Chongqing University](https://english.cqu.edu.cn/) invites outstanding applicants at all career stages—from prospective PhD Students and Postdoctoral Researchers to Tenure-Track/Tenured Faculty (Assistant, Associate, Full Professor)—to join our established research program in Porous Media, Multiphase Flow, and Unconventional Energy Resources. We maintain a rolling application review for all positions and encourage interested candidates to apply at any time. To Apply: please submit a CV and a statement of research interest to chaozhong.qin@cqu.edu.cn / chaozhong.qin@gmail.com.
 
