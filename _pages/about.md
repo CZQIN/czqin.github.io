@@ -13,3 +13,7 @@ My research focuses on flow and transport phenomena in diverse porous media, inc
 
 
 The School of Resources and Saftey Engineering at [Chongqing University](https://english.cqu.edu.cn/) invites outstanding applicants at all career stages—from prospective PhD Students and Postdoctoral Researchers to Tenure-Track/Tenured Faculty (Assistant, Associate, Full Professor)—to join our established research program in Porous Media, Multiphase Flow, and Unconventional Energy Resources. We maintain a rolling application review for all positions and encourage interested candidates to apply at any time. To Apply: please submit a CV and a statement of research interest to chaozhong.qin@cqu.edu.cn / chaozhong.qin@gmail.com.
+
+<p align="left">
+  <img src="/images/cqu-1.png" alt="Huxi campus" width="1000">
+</p>
