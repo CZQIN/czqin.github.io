@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[The full CV can be found here](http://czqin.github.io/files/qin-cv.pdf)  
 
 Education
 ======
