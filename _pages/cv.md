@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Hydrogeology, Utrecht University, 2012
+* Ph.D in Hydrogeology, Utrecht University (荷兰乌特列支大学), 2012
 * M.S. in Fluid Mechanics, University of Science and Technology of China (中国科学技术大学), 2008
 * B.S. in Engineering Mechanics, Xi'an Jiaotong University (西安交通大学), 2005
 
