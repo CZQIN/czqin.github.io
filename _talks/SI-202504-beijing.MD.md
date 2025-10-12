@@ -9,7 +9,12 @@ date: 2025-04-25 to 2025-04-27
 location: "Beijing, China"
 ---
 
-Modeling of Flow and Transport in Multiscale Digital Rocks
+Micro-scale dynamics of spontaneous imbibition and its upscaling   
+自发渗吸微观动力学与升尺度研究        
+[My presentation can be found here](http://czqin.github.io/files/SI-202504-beijing-ppt.pdf)      
 <p align="left">
-  <img src="/images/ASCHT-202510-wuhan.jpg" width="500">
+  <img src="/images/SI-202504-beijing-1.jpg" width="500">
+</p>
+<p align="left">
+  <img src="/images/SI-202504-beijing-3.jpg" width="500">
 </p>
