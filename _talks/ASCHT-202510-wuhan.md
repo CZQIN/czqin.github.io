@@ -11,5 +11,5 @@ location: "Wuhan, China"
 
 Modeling of Flow and Transport in Multiscale Digital Rocks
 <p align="left">
-  <img src="/images/ASCHT-202510-wuhan.jpg" alt="Session chair" width="500">
+  <img src="/images/ASCHT-202510-wuhan.jpg" width="500">
 </p>
