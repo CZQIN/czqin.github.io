@@ -1,7 +1,6 @@
 ---
 title: "Keynote talk at The Fifth International Symposium on Multiscale Simulations of Thermophysics (第五届热物理多尺度模拟国际会议)"
-collection: talks
-type: "Talk"
+collection: projects
 permalink: /talks/MSTP-202509-hefei
 slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-program.pdf'
 venue: "Lebanshan Hotel"
