@@ -1,7 +1,7 @@
 ---
 title: "Keynote talk at The Fifth International Symposium on Multiscale Simulations of Thermophysics (第五届热物理多尺度模拟国际会议)"
 collection: projects
-permalink: /talks/MSTP-202509-hefei
+permalink: /projects/first-project
 slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-program.pdf'
 venue: "Lebanshan Hotel"
 date: 2025-09-28 to 2025-09-30
