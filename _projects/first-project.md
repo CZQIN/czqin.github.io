@@ -3,7 +3,7 @@ title: "Pore structures of tight sandstones and multiscale digital rocks 致密�
 collection: projects
 permalink: /projects/first-project
 excerpt: "2025-03-26 at room 207, State key laboratory of coal mine disaster dynamics and control, Chongqing University<br/>Prof. Rainer Helmig and Prof. Li Liu (vice Dean)<br/><img src='/images/rainer-KC-lecture-202403.png' width='500'>"
-date: 2025-09-28 to 2025-09-30
+date: 2025-09-28
 ---
 
 Flow and Transport in Multiscale Pore Structures: Model Development and Simulations  
