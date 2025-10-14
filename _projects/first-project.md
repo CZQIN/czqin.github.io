@@ -1,5 +1,5 @@
 ---
-title: "Keynote talk at The Fifth International Symposium on Multiscale Simulations of Thermophysics (第五届热物理多尺度模拟国际会议)"
+title: "Pore structures of tight sandstones and multiscale digital rocks 致密砂岩多尺度孔隙结构表征与数字岩心构建"
 collection: projects
 permalink: /projects/first-project
 slidesurl: 'http://czqin.github.io/files/MSTP-202509-hefei-program.pdf'
