@@ -1,14 +1,14 @@
 ---
-title: "碳酸盐岩双重孔隙网络模型与微观气水流动研究 (Study on dual-pore-network model and microscopic gas-water flow in carbonate rocks)"
+title: "岩石自发渗吸微流控实验与数值模拟研究 (Microfluidic experiments of spontaneous imbibition and numerical simulations)"
 collection: publications
 category: dissertation
-permalink: /publication/zhao-master-2022
-excerpt: 'Master thesis by my student, Xingyuan Zhao (赵星圆)'
-date: 2025-06-01
+permalink: /publication/jia-master-2021
+excerpt: 'Master thesis by my student, Guiqi Jia (贾桂齐)'
+date: 2024-06-01
 venue: 'Master thesis'
-slidesurl: 'http://czqin.github.io/files/赵星圆-硕士-2022级-ppt.pdf'
-paperurl: 'http://czqin.github.io/files/赵星圆-硕士-2022级.pdf'
-citation: '赵星圆, 碳酸盐岩双重孔隙网络模型与微观气水流动研究, 学术硕士论文，2025，重庆大学.'
+slidesurl: 'http://czqin.github.io/files/贾桂齐-硕士-2021级-ppt.pdf'
+paperurl: 'http://czqin.github.io/files/贾桂齐-硕士-2021级.pdf'
+citation: '贾桂齐, 岩石自发渗吸微流控实验与数值模拟研究, 专业硕士论文，2024，重庆大学.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
