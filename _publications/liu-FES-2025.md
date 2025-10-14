@@ -1,16 +1,17 @@
 ---
-title: "Experimental validation of an image-based dynamic pore-network model for spontaneous imbibition in sandstones"
+title: "Three-dimensional reconstruction and connectivity analysis of REV-size organic matter in shales"
 collection: publications
 category: manuscripts
-permalink: /publication/wang-AWR-2025
-excerpt: 'Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation'
-date: 2024-11-25
+permalink: /publication/liu-FES-2025
+excerpt: '3D reconstruction of digital rocks; MAPS images; REV size; Connectivity; Organic matter'
+date: 2025-01-09
 venue: 'Advances in Water Resources'
-paperurl: 'http://czqin.github.io/files/wang-AWR-2025.pdf'
-citation: 'Xin Wang, Chaozhong Qin, Bo Guo, Sorin Pop, Jian Tian, Experimental validation of an image-based dynamic pore-network model for spontaneous imbibition in sandstones, Advances in Water Resources, 195, 104859, 2025, https://doi.org/10.1016/j.advwatres.2024.104859.'
+paperurl: 'http://czqin.github.io/files/liu-FES-2025.pdf'
+citation: 'Liu D, Yang X, Zhao S, Zhang D, Huang S, Zhu N, Rong J, Shi B, Wang Z and Qin C-Z. Three-dimensional reconstruction and connectivity analysis of REV-size organic matter in shales. Front. Earth Sci. 13:1537217, 2025. doi: 10.3389/feart.2025.1537217.'
 ---
 
-Spontaneous imbibition (SI) in porous media driven by capillary action is pivotal to many subsurface and industrial applications. The pore-scale modeling has been playing a vital role in unraveling wetting dynamics in pore spaces, which will eventually determine flow parameters and behaviors. In this paper, we mainly contribute to validating an image-based dynamic pore-network model (PNM) for SI. For the scenario of water imbibing into dry porous media, we measured imbibition rates and residual saturations of three types of sandstones, namely, Nubian, Bentheimer and Upper Berea as the validation data. Then, we extracted the pore networks of the ??CT images of the same core samples used in the lab experiments, to reduce heterogeneity uncertainties. We demonstrate that using either a uniform or a lognormal distribution of effective contact angles that is consistent with experimental measurements in the literature, the dynamic PNM can accurately predict experimental imbibition rates and residual saturations. Given the challenge of experimentally determining effective contact angles, we further investigate the effects of these two plausible contact angle distributions on the predictions of pore-scale wetting events, relative permeability, capillary pressure, and imbibition rates for more viscous nonwetting fluids. Although uncertainties remain in the preset of effective contact angles, we show that the validated dynamic PNM can provide quantitative and valuable insights into pore-scale wetting dynamics.
+Organic matter (OM) serves as a crucial site for shale gas generation and occurrence. Its content and spatial connectivity significantly influence gas flow ability and gas occurrence. However, in characterizing the three-dimensional (3D) connectivity of OM, current imaging techniques such as FIB-SEM and nano-CT cannot balance field of view (FoV) and image resolution. To address this gap, in this work, we develop a novel workflow for numerical reconstruction of REV-size digital rocks of OM that integrates high-resolution information of pore structures in large-view MAPS (modular automated processing system) images. Specifically, the open source code, SliceGAN, is used in the 3D reconstruction of digital rocks of OM, while the high-resolution information of OM pore structures is integrated into the digital rocks in terms of the classification of OM in the MAPS images. The classification of OM is solely based on the surface or 2D porosity of individual OM watersheds. As a first attempt, we propose three types of OM including Type A with high porosity (>20%), Type B with medium porosity
+(10%∼20%), and Type C with low porosity (<10%). Based on the case studies of three in-situ shale samples with different OM contents, we show that at the REV size the three types of OM, as a whole, can form conducting pathways throughout the domains, but each type of OM is disconnected. Type A and Type B OM have poor connectivity, while Type C OM holds the best connectivity dominating gas transport at the REV scale. Moreover, the reconstructed 3D digital rocks of OM can be used in the numerical modeling of REV-size gas transport in shales.
 
 <video width="640" height="360" controls>
   <source src="/images/SI-DPNM-wang-AWR-2025.mp4" type="video/mp4">
