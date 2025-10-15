@@ -6,4 +6,14 @@ excerpt: "The proposed numerical framework for gas-water flow in tight sandstone
 date: 2025-09-28
 ---
 
+<div style="overflow: auto;">
+  <video width="500" height="350" controls>
+    <source src="/images/OM-1.avi" type="video/avi">
+    <p>抱歉，您的浏览器无法播放此视频。</p>
+  </video>
+  <video width="500" height="350" controls>
+    <source src="/images/REV-modeling-1.mp4" type="video/mp4">
+    <p>抱歉，您的浏览器无法播放此视频。</p>
+  </video>
+</div>
 
