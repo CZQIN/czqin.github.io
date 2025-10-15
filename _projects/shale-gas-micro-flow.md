@@ -8,7 +8,7 @@ date: 2024-09-28
 
 <div style="overflow: auto;">
   <video controls style="width: 60%;">
-    <source src="/images/OM-1.avi" type="video/avi">
+    <source src="/images/OM-2.mp4" type="video/mp4">
     <p>抱歉，您的浏览器无法播放此视频。</p>
   </video>
  <video controls style="width: 60%;">
