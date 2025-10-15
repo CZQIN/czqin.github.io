@@ -1,5 +1,5 @@
 ---
-title: "The pore-network-continuum modeling of two-phase flow properties for multiscale digital rocks"
+title: "The pore-network-continuum modeling of two-phase flow properties for multiscale digital rocks<br/>孔隙网络-连续介质模拟多尺度数字岩心两相渗流参数研究"
 collection: publications
 category: manuscripts
 permalink: /publication/shi-AWR-2025
