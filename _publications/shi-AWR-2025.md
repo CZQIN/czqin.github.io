@@ -3,7 +3,7 @@ title: "The pore-network-continuum modeling of two-phase flow properties for mul
 collection: publications
 category: manuscripts
 permalink: /publication/shi-AWR-2025
-excerpt: 'Multiscale porous media; digital rocks; pore-network-continuum model; two-phase flow; microporosity; relative permeability'
+excerpt: "Multiscale porous media; digital rocks; pore-network-continuum model; two-phase flow; microporosity; relative permeability<br/><img src='/images/shi-AWR-2025-GA.png' width='500'>"
 date: 2025-10-4
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/shi-AWR-2025.pdf'
