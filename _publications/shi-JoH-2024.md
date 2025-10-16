@@ -3,7 +3,7 @@ title: "Modeling of flow and transport in multiscale digital rocks aided by grid
 collection: publications
 category: manuscripts
 permalink: /publication/shi-JoH-2024
-excerpt: 'Subsurface porous media; Permeability; Breakthrough curve; Multiscale digital rock; Pore-network-continuum hybrid model; Microporosity'
+excerpt: "<p>Subsurface porous media; Permeability; Breakthrough curve; Multiscale digital rock; Pore-network-continuum hybrid model; Microporosity"
 date: 2024-02-17
 venue: 'Journal of Hydrology'
 slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
