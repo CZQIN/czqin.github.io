@@ -4,7 +4,8 @@ excerpt: "2025-03-26 at room 207, State key laboratory of coal mine disaster dyn
 collection: portfolio
 ---
 
-[The program can be found here](http://czqin.github.io/files/rainer-KC-lecture-202403-flyer.pdf)  
+[The program can be found here](http://czqin.github.io/files/rainer-KC-lecture-202403-flyer.pdf)    
+Chongqing Teahouse (重庆茶馆)   
 <p align="left">
   <img src="/images/rainer-KC-lecture-202403-2.jpg" alt="Chongqing Teahouse (重庆茶馆)" width="500">
 </p>
