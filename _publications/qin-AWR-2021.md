@@ -3,7 +3,7 @@ title: "Image-based modeling of spontaneous imbibition in porous media by a dyna
 collection: publications
 category: manuscripts
 permalink: /publication/qin-AWR-2021
-excerpt: '<p>Spontaneous imbibition; Dynamic pore-network modeling; Model validation</p> <p><img src='/images/qin-AWR-2021-GA-1.png' width='500'></p>'
+excerpt: "<p>Spontaneous imbibition; Dynamic pore-network modeling; Model validation</p><p><img src='/images/qin-AWR-2021-GA-1.png' width='500'></p>"
 date: 2021-04-24
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/qin-AWR-2021.pdf'
