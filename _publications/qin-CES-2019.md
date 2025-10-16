@@ -3,7 +3,7 @@ title: "Dynamic pore-network modeling of air-water flow through thin porous laye
 collection: publications
 category: manuscripts
 permalink: /publication/qin-CES-2019
-excerpt: "<p>Thin porous media; Pore-network modeling; Two-phase flow; Polymer electrolyte fuel cell (PEFC); Water and heat management; Phase change</p> <p><img src='/images/qin-CES-2019.jpg' width='500'></p>"
+excerpt: "<p>Thin porous media; Pore-network modeling; Two-phase flow; Polymer electrolyte fuel cell (PEFC); Water and heat management; Phase change</p> <p><img src='/images/qin-CES-2019-i-1.jpg' width='500'></p>"
 date: 2019-03-16
 venue: 'Chemical Engineering Science'
 slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
@@ -15,7 +15,7 @@ Thin porous layers, that have large aspect ratios, are seen in many applications
 
 <div style="overflow: auto;">
   <video controls style="width: 60%;">
-    <source src="/images/qin-CES-2019-V-1.mp4" type="video/mp4">
+    <source src="/images/qin-CES-2019-v-1.mp4" type="video/mp4">
     <p>抱歉，您的浏览器无法播放此视频。</p>
   </video>
 </div>
