@@ -1,8 +1,8 @@
 ---
-title: "Characterization of pore structures and reconstruction of multiscale digital rocks of tight sandstones<br/>致密砂岩多尺度孔隙结构表征与数字岩心构建"
+title: "Two-phase flow properties of heterogeneous rocks through multi-resolution micro-CT images based on 3D topological and geometrical characteristics<br/>基于拓扑几何定量表征的非均质岩石跨图像两相渗流特性研究"
 collection: projects
-permalink: /projects/first-project
-excerpt: "The proposed numerical framework for gas-water flow in tight sandstones<br/>多重成像、岩石类别划分、多源信息融合、多重孔隙网络模型<br/><img src='/images/dca-ts-GA-2.jpg' width='700'>"
+permalink: /projects/jiang-NSFC-2025
+excerpt: "The proposed framework<br/>孔隙结构类别划分、岩石非均质性、数字岩心及表征、闵可夫斯基泛函<br/><img src='/images/jiang-NSFC-2025-GA.jpg' width='700'>"
 date: 2025-09-28
 ---
 
