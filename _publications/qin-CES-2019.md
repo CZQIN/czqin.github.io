@@ -3,7 +3,7 @@ title: "Dynamic pore-network modeling of air-water flow through thin porous laye
 collection: publications
 category: manuscripts
 permalink: /publication/qin-CES-2019
-excerpt: 'Thin porous media; Pore-network modeling; Two-phase flow; Polymer electrolyte fuel cell (PEFC); Water and heat management; Phase change'
+excerpt: 'Thin porous media; Pore-network modeling; Two-phase flow; Polymer electrolyte fuel cell (PEFC); Water and heat management; Phase change<br/><img src='/images/shi-AWR-2025-GA.png' width='500'>'
 date: 2019-03-16
 venue: 'Chemical Engineering Science'
 slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
