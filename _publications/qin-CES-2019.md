@@ -1,18 +1,18 @@
 ---
-title: "Modeling of flow and transport in multiscale digital rocks aided by grid coarsening of microporous domains"
+title: "Dynamic pore-network modeling of air-water flow through thin porous layers"
 collection: publications
 category: manuscripts
-permalink: /publication/shi-JoH-2024
-excerpt: 'Subsurface porous media; Permeability; Breakthrough curve; Multiscale digital rock; Pore-network-continuum hybrid model; Microporosity'
-date: 2024-02-17
-venue: 'Journal of Hydrology'
+permalink: /publication/qin-CES-2019
+excerpt: 'Thin porous media; Pore-network modeling; Two-phase flow; Polymer electrolyte fuel cell (PEFC); Water and heat management; Phase change'
+date: 2019-03-16
+venue: 'Chemical Engineering Science'
 slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
-paperurl: 'http://czqin.github.io/files/shi-JoH-2024.pdf'
-citation: 'Bowen Shi, Han Jiang, Bo Guo, Jian Tian, Chao-Zhong Qin, Modeling of flow and transport in multiscale digital rocks aided by grid coarsening of microporous domains, Journal of Hydrology, 633, 131003, 2024, https://doi.org/10.1016/j.jhydrol.2024.131003.'
+paperurl: 'http://czqin.github.io/files/qin-CES-2019.pdf'
+citation: 'Chao-Zhong Qin, Bo Guo, Michael Celia, Rui Wu, Dynamic pore-network modeling of air-water flow through thin porous layers, Chemical Engineering Science, 202, 194-207, 2019, https://doi.org/10.1016/j.ces.2019.03.038.'
 ---
 
-Many subsurface porous media such as soils, carbonate rocks, and mudstones possess multiscale porous struc- tures that play an important role in regulating fluid flow and transport therein. A pore-network-continuum hybrid model is promising for numerical studies of a multiscale digital rock. It is, however, still prohibitive to the REV-size modeling because tens of millions of microporosity voxels may exist. In this work, we develop a novel and robust algorithm for coarsening microporosity voxels of a multiscale digital rock. Then, we combine coarsened microporosity grids with the pore network of resolved macropores to form efficient computational meshes. Furthermore, a pore-network-continuum simulator is developed to simulate flow and transport in both a synthesized multiscale digital rock and a realistic Estaillades carbonate rock. We show that the coarsening al- gorithm can reduce computational grids by about 90%, which substantially reduces computational costs. Meanwhile, coarsening microporosity has a minor impact on the predictions of absolute permeability, gas production curves, and breakthrough curves of solute transport. We illustrate the mechanisms of flow and transport in multiscale porous media induced by microporosity. Finally, the efficient hybrid model is used to predict the absolute permeability of an Estaillades digital rock. The numerical prediction matches well with the reported experimental data. We highlight the importance of characterizing mean pore-size distributions in microporosity for the prediction of rock permeability and local flow fields. The developed pore-network- continuum hybrid model aided by grid coarsening of microporosity serves as a useful numerical tool to study flow and transport in multiscale porous media.
+Thin porous layers, that have large aspect ratios, are seen in many applications such as hydrogen fuel cells and hygiene products, in which air-water immiscible flow is of great interest. Direct numerical simula- tions based on Navier-Stokes equation are computationally expensive, and even prohibitive for low cap- illary number flow such as water flooding in low-temperature polymer electrolyte fuel cells. Alternatively, the pore-network modeling needs much less computational resources, while still retaining essentials of the pore-structure information. In this work, a dynamic pore-network model of air-water flow with phase change has been developed. We focus on drainage processes through thin porous layers, in which liquid water is the nonwetting phase. Three test cases are conducted, namely, air-water flow through a thin porous layer, air-water flow through a bilayer of fine and coarse thin porous layers, and water flooding in the gas diffusion layer of a polymer electrolyte fuel cell with phase change between water and its vapor. Using these test cases, we aim to demonstrate the application of dynamic pore- network modeling in thin porous media studies. In particular, we discuss the challenge of modeling thin porous media at the average scale, and highlight the role of phase change in removing liquid water from the cathode gas diffusion layer.
 
 <p align="center">
-  <img src="/images/shi-JoH-2024-GA.png" alt="Pore-network-continuum modeling and coarsening of microporosity voxels" width="600">
+  <img src="/images/qin-CES-2019-GA.jpg" width="600">
 </p>
