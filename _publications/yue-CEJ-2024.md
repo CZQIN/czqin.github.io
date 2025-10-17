@@ -3,7 +3,7 @@ title: "Microenvironment design strategies for enhanced CO 2 electroreduction wi
 collection: publications
 category: manuscripts
 permalink: /publication/yue-CEJ-2024
-excerpt: '<p>Electrochemical CO2 reduction; Ni single atom catalyst; Catalyst layer; Mass transport</p> <p><img src='/images/yue-CEJ-2019-GA-1.jpg' width='500'></p>'
+excerpt: "<p>Electrochemical CO2 reduction; Ni single atom catalyst; Catalyst layer; Mass transport</p> <p><img src='/images/yue-CEJ-2019-GA-1.jpg' width='500'></p>"
 date: 2024-08-05
 venue: 'Chemical Engineering Journal'
 slidesurl: # 'http://czqin.github.io/files/yue-CEJ-2024.pdf'
