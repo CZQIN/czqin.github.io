@@ -1,18 +1,18 @@
 ---
-title: "Modeling of flow and transport in multiscale digital rocks aided by grid coarsening of microporous domains"
+title: "Microenvironment design strategies for enhanced CO 2 electroreduction with a 60 % full-cell energy efficiency"
 collection: publications
 category: manuscripts
-permalink: /publication/shi-JoH-2024
-excerpt: 'Subsurface porous media; Permeability; Breakthrough curve; Multiscale digital rock; Pore-network-continuum hybrid model; Microporosity'
-date: 2024-02-17
-venue: 'Journal of Hydrology'
-slidesurl: # 'http://czqin.github.io/files/shi-JoH-2024.pdf'
-paperurl: 'http://czqin.github.io/files/shi-JoH-2024.pdf'
-citation: 'Bowen Shi, Han Jiang, Bo Guo, Jian Tian, Chao-Zhong Qin, Modeling of flow and transport in multiscale digital rocks aided by grid coarsening of microporous domains, Journal of Hydrology, 633, 131003, 2024, https://doi.org/10.1016/j.jhydrol.2024.131003.'
+permalink: /publication/yue-CEJ-2024
+excerpt: 'Electrochemical CO2 reduction; Ni single atom catalyst; Catalyst layer; Mass transport'
+date: 2024-08-05
+venue: 'Chemical Engineering Journal'
+slidesurl: # 'http://czqin.github.io/files/yue-CEJ-2024.pdf'
+paperurl: 'http://czqin.github.io/files/yue-CEJ-2024.pdf'
+citation: 'Pengtao Yue, Junjun Wu, Chaozhong Qin, Bowen Shi, Yang Wang, Yue Zhang, Yanan Zou, Jun Li, Liang Zhang, Xun Zhu, Miao Zhong, Qian Fu, Qiang Liao, Microenvironment design strategies for enhanced CO2 electroreduction with a 60% full-cell energy efficiency, Chemical Engineering Journal, 497, 154607, 2024, https://doi.org/10.1016/j.cej.2024.154607.'
 ---
 
-Many subsurface porous media such as soils, carbonate rocks, and mudstones possess multiscale porous struc- tures that play an important role in regulating fluid flow and transport therein. A pore-network-continuum hybrid model is promising for numerical studies of a multiscale digital rock. It is, however, still prohibitive to the REV-size modeling because tens of millions of microporosity voxels may exist. In this work, we develop a novel and robust algorithm for coarsening microporosity voxels of a multiscale digital rock. Then, we combine coarsened microporosity grids with the pore network of resolved macropores to form efficient computational meshes. Furthermore, a pore-network-continuum simulator is developed to simulate flow and transport in both a synthesized multiscale digital rock and a realistic Estaillades carbonate rock. We show that the coarsening al- gorithm can reduce computational grids by about 90%, which substantially reduces computational costs. Meanwhile, coarsening microporosity has a minor impact on the predictions of absolute permeability, gas production curves, and breakthrough curves of solute transport. We illustrate the mechanisms of flow and transport in multiscale porous media induced by microporosity. Finally, the efficient hybrid model is used to predict the absolute permeability of an Estaillades digital rock. The numerical prediction matches well with the reported experimental data. We highlight the importance of characterizing mean pore-size distributions in microporosity for the prediction of rock permeability and local flow fields. The developed pore-network- continuum hybrid model aided by grid coarsening of microporosity serves as a useful numerical tool to study flow and transport in multiscale porous media.
+Low current densities (production rates) and low energy efficiency (EE) caused by poor catalyst activities and limited CO2 mass transfer in the catalyst layer (CL) prevent CO2 electrolysis from application. Herein, we report atomically dispersed Ni catalysts anchored on macroporous hollow nano-carbon sheets (A-Ni@CS) that simultaneously optimizes the coordination of Ni atoms and CO2 transport in the CL. The unique Ni–N5–O/C structure of A-Ni@CS lowers the energy barrier of *COOH formation, and the layered nano-to-micro porous structure increases the mass transfer of CO2, enhancing the local CO2 concentration in the CL. By employing a zero-gap flow cell, A-Ni@CS can mediate CO2 to CO conversion with a 60 % full-cell EE at 200 mA/cm2.
 
-<p align="center">
-  <img src="/images/shi-JoH-2024-GA.png" alt="Pore-network-continuum modeling and coarsening of microporosity voxels" width="600">
+<p align="left">
+  <img src="/images/yue-CEJ-2024-GA-1.jpg" width="500">
 </p>
