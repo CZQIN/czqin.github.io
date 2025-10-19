@@ -3,7 +3,7 @@ title: "Experimental validation of an image-based dynamic pore-network model for
 collection: publications
 category: manuscripts
 permalink: /publication/wang-AWR-2025
-excerpt: "<p>Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation</p> <p><img src='/images/wang-AWR-2025-i-1.jpg' width='500'></p>"
+excerpt: "<p>Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation</p> <p><img src='/images/wang-AWR-2025-i-2.jpg' width='500'></p>"
 date: 2024-11-25
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/wang-AWR-2025.pdf'
