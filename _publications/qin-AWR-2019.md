@@ -3,7 +3,7 @@ title: "A dynamic pore-network model for spontaneous imbibition in porous media"
 collection: publications
 category: manuscripts
 permalink: /publication/qin-AWR-2019
-excerpt: 'Spontaneous imbibition; Pore-network model; Porous media; Capillary force; Sharp wetting front; Single-phase imbibition model'
+excerpt: "<P>Spontaneous imbibition; Pore-network model; Porous media; Capillary force; Sharp wetting front; Single-phase imbibition model</p> <p><img src='/images/qin-AWR-2019-GA-2.jpg' width='500'></p>"
 date: 2019-09-10
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/qin-AWR-2019.pdf'
