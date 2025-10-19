@@ -7,5 +7,5 @@ collection: portfolio
 
 [The program can be found here](http://czqin.github.io/files/EES-workshop-2025-program.pdf)  
 <p align="left">
-  <img src="/images/EES-workshop-2025-1.jpg" alt=" " width="500">
+  <img src="/images/EES-workshop-2025-1.JPG" alt=" " width="500">
 </p>
