@@ -51,5 +51,6 @@ Service and leadership
 ======
 * Executive Associate Editors-in-Chief of [Earth Energy Science](https://www.sciencedirect.com/journal/earth-energy-science)
 * Editor of [InterPore Journal](https://ipjournal.interpore.org/index.php/interpore)
+* Asscociate Editro of [Advances in Water Resources](https://www.sciencedirect.com/journal/advances-in-water-resources)
 * Academic Editor of [Geofluids](https://onlinelibrary.wiley.com/journal/6816)
 * Editorial Board Members of [Scientific Reports](https://www.nature.com/srep/)
