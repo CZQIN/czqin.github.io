@@ -7,9 +7,12 @@ location: "chongqing, China"
 collection: portfolio
 ---
 
+学术报告
 <p align="left">
   <img src="/images/majid-cqu-20230830-7.jpg" alt=" " width="500">
 </p>
+
+与学生讨论
 <p align="left">
   <img src="/images/majid-cqu-20230830-1.jpg" alt=" " width="500">
 </p>
