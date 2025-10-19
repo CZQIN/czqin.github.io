@@ -26,7 +26,7 @@ Professional experiences
 *	From 1/11/2016 until 30/9/2019, Researcher, Department of Mechanical Engineering, Technology University of Eindhoven, The Netherlands
 *	From 1/4/2016 until 30/5/2016, visiting Researcher, Department of Civil and Environmental Engineering, Princeton University, US (Host: Prof. Michael Celia)
 *	From 1/3/2014 until 30/5/2014, visiting researcher, Fraunhofer ITWM, Germany (Host: Prof. Oleg Iliev)
-*	From 1/11/2012 until 31/10/2016, Postdoc researcher, Department of Earth Sciences, Utrecht University, The Netherlands. Supervisor: Prof. Majid Hassanizadeh
+*	From 1/11/2012 until 31/10/2016, Postdoc researcher, Department of Earth Sciences, Utrecht University, The Netherlands. Supervisor: Prof. Majid Hassanizadeh  
   Research topic: Fundamentals of multiphase flow in porous media, and reactive transport in porous media with mineral precipitation/dissolution
 
 Publications
