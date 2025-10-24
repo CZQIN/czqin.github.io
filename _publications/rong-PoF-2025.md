@@ -3,7 +3,7 @@ title: "The pore-network-continuum hybrid modeling of nonlinear shale gas flow i
 collection: publications
 category: manuscripts
 permalink: /publication/rong-PoF-2025
-excerpt: 'Spontaneous imbibition; Pore-network modeling; Effective contact angles; Model validation'
+excerpt: 'Pore-network-continuum modeling; Shale gas; Organic matter; nonlinear compressible flow'
 date: 2025-04-22
 venue: 'Physics of Fluids'
 paperurl: 'http://czqin.github.io/files/rong-PoF-2025.pdf'
