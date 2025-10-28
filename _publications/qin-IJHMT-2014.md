@@ -3,7 +3,7 @@ title: "Multiphase flow through multilayers of thin porous media: General balanc
 collection: publications
 category: manuscripts
 permalink: /publication/qin-IJHMT-2014
-excerpt: "<P>Multiphase/two-phase flow; Thin porous medium; Numerical modeling; Fuel cells/PEFC; Filters; Hygiene products; Paper</p> <p><img src='/images/qin-IJHMT-2014-i-2.jpg' width='500'></p>"
+excerpt: "<P>Multiphase/two-phase flow; Thin porous medium; Numerical modeling; Fuel cells/PEFC; Filters; Hygiene products; Paper</p> <p><img src='/images/qin-IJHMT-2014-i-1.jpg' width='500'></p>"
 date: 2013-11-18
 venue: 'International Journal of Heat and Mass Transfer'
 paperurl: 'http://czqin.github.io/files/qin-IJHMT-2014.pdf'
