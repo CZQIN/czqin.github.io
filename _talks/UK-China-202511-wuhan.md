@@ -9,7 +9,7 @@ date: 2025-11-15
 location: "Wuhan, China"
 ---
 
-Pore-scale studies on capillary trapping of carbon dioxide in carbonate rocks
+Pore-scale studies on capillary trapping of carbon dioxide in carbonate rocks     
 [My presentation can be found here](http://czqin.github.io/files/UK-China-202511-wuhan-ppt.pdf)  
 <p align="left">
   <img src="/images/UK-China-202511-wuhan-1.jpg" width="500">
