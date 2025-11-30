@@ -1,6 +1,6 @@
 ---
 title: "The 2nd International Conference on Earth Energy Science and Engineering <br/>2025地能科学与工程国际学术会议"
-excerpt: "2025-11-27 at Z123, Huxi Campus of Chongqing University<br/><img src='/images/EES-workshop-2025-1.png' width='500' ><br/><img src='/images/EES-workshop-2025-2.png' width='500' >"
+excerpt: "2025-11-27 at Z123, Huxi Campus of Chongqing University<br/><img src='/images/ees-meeting-202511-1.jpg' width='500' ><br/><img src='/images/EES-workshop-2025-2.png' width='500' >"
 collection: portfolio
 ---
 
