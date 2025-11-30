@@ -4,8 +4,11 @@ excerpt: "Shancheng International Convention Center (重庆山城国际会议中
 collection: portfolio
 ---
 
-[The program can be found here](http://czqin.github.io/files/ees-meeting-202511-program.pdf)  
+[The program can be found here](http://czqin.github.io/files/ees-meeting-202511-program-s.pdf)  
 <p align="left">
-  <img src="/images/ees-meeting-202511-1.jpg" alt=" " width="500">
+  <img src="/images/ees-meeting-202511-2.jpg" alt=" " width="500">
+</p>
+<p align="left">
+  <img src="/images/ees-meeting-202511-3.jpg" alt=" " width="500">
 </p>
 
