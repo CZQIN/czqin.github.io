@@ -1,6 +1,8 @@
 ---
 title: "The 2nd International Conference on Earth Energy Science and Engineering <br/>2025地能科学与工程国际学术会议"
 excerpt: "Shancheng International Convention Center (重庆山城国际会议中心)<br/><img src='/images/ees-meeting-202511-1.JPG' width='500' >"
+date: 2025-11-26
+location: "chongqing, China"
 collection: portfolio
 ---
 
