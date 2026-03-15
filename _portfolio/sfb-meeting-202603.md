@@ -9,6 +9,6 @@ collection: portfolio
 
 [My poster can be found here](http://czqin.github.io/files/sfb-meeting-202603-poster-s.pdf)  
 <p align="left">
-  <img src="/images/sfb-meeting-202603-1.jpg" alt=" " width="500">
+  <img src="/images/sfb-meeting-202603-2.jpg" alt=" " width="500">
 </p>
 
