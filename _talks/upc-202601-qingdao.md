@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/upc-202601-qingdao
 slidesurl: 
+src='/images/upc-202601-qingdao-1.jpg' width='500'></p>"
 venue: "China University of Petroleum (East China)"
 date: 2026-01-22
 location: "Qingdao, China"
