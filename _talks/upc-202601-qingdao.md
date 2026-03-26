@@ -8,8 +8,8 @@ venue: "China University of Petroleum (East China)"
 date: 2026-01-22
 location: "Qingdao, China"
 ---
-
-Modeling of Flow and Transport in Multiscale Digital Rocks
+Characterization of Digital Rocks and Multiphysics Multiscale Modeling of Flow and Transport
+数字岩心精细表征与多物理多尺度渗流模拟技术
 <p align="left">
   <img src="/images/upc-202601-qingdao-2.jpg" width="500">
 </p>
