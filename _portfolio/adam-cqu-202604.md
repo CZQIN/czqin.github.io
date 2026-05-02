@@ -7,7 +7,7 @@ location: "chongqing, China"
 collection: portfolio
 ---
 
-[The exchange program can be found here](http://czqin.github.io/files/adam-cqu-202604-program-s.pdf)  
+[The exchange program can be found here](http://czqin.github.io/files/adam-cqu-202604-program.pdf)  
 <p align="left">
   <img src="/images/adam-cqu-202604-2.jpg" alt=" " width="500">
 </p>
