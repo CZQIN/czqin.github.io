@@ -1,17 +1,13 @@
 ---
-title: "The 2nd International Conference on Earth Energy Science and Engineering <br/>2025地能科学与工程国际学术会议"
-excerpt: "Shancheng International Convention Center (重庆山城国际会议中心)<br/>Group photo at the closing ceremony<br/><img src='/images/ees-meeting-202511-1.JPG' width='500' >"
+title: "Prof. Adam Szymkiewicz's visit to Chongqing University<br/>Adam Szymkiewicz教授来访重庆大学"
+excerpt: "Science Center of Chongqing University (重庆大学科学中心)<br/>Group photo with my team <br/><img src='/images/adam-cqu-202604-1.JPG' width='500' >"
 venue: "Chongqing, China"
-date: 2025-11-26
+date: 2026-4-23
 location: "chongqing, China"
 collection: portfolio
 ---
 
-[The program can be found here](http://czqin.github.io/files/ees-meeting-202511-program-s.pdf)  
+[The exchange program can be found here](http://czqin.github.io/files/adam-cqu-202604-program-s.pdf)  
 <p align="left">
-  <img src="/images/ees-meeting-202511-2.JPG" alt=" " width="500">
+  <img src="/images/adam-cqu-202604-2.JPG" alt=" " width="500">
 </p>
-<p align="left">
-  <img src="/images/ees-meeting-202511-3.JPG" alt=" " width="500">
-</p>
-
