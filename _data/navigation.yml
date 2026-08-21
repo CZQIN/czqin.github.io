@@ -10,15 +10,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /projects/
   
   - title: "Talks"
     url: /talks/    
 
   - title: "Moments"
     url: /portfolio/
+
+  - title: "Projects"
+    url: /projects/
 
   # - title: "Teaching"
   #  url: /teaching/    
