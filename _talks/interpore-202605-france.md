@@ -5,7 +5,7 @@ type: "Oral Talk"
 permalink: /talks/interpore-202605-france
 venue: "La Cité Nantes Congress Centre"
 date: 2026-05-19
-location: "Nantes, France"
+location: "May 19–22, 2026，Nantes, France"
 slidesurl: 'http://czqin.github.io/files/interpore-202605-france-program.pdf'
 ---
 
@@ -13,4 +13,3 @@ slidesurl: 'http://czqin.github.io/files/interpore-202605-france-program.pdf'
 <p align="left">
   <img src="/images/interpore-202605-france-1.jpg" width="500">
 </p>
-# **May 19–22, 2026**
