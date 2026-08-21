@@ -1,15 +1,18 @@
 ---
-title: "Invited lecture at China University of Petroleum (East China) (中国石油大学（华东）邀请讲座)"
+title: "Keynote talk at the InterPore China Chapter 2026 (2026年国际多孔介质学会中国分会)"
+excerpt: "<img src='/images/interporechina-202607-suzhou-1.jpg' width='500'>"
 collection: talks
-type: "Talk"
-permalink: /talks/ASCHT-202510-wuhan
-slidesurl: 'http://czqin.github.io/files/ASCHT-202510-wuhan-program.pdf'
-venue: "Optics Valley Kingdom Plaza Hotel"
-date: 2025-10-9 to 2025-10-13
-location: "Wuhan, China"
+type: "Keynote Talk"
+permalink: /talks/interporechina-202607-suzhou
+venue: "Nanjing University"
+date: 2026-07-12
+location: "July 12-15, Suzhou, China"
+slidesurl: 'http://czqin.github.io/files/interporechina-202607-suzhou-program.pdf'
 ---
 
-Modeling of Flow and Transport in Multiscale Digital Rocks
 <p align="left">
-  <img src="/images/ASCHT-202510-wuhan.jpg" width="500">
+  <img src="/images/interporechina-202607-suzhou-2.jpg" width="500">
+</p>
+<p align="left">
+  <img src="/images/interporechina-202607-suzhou-3.jpg" width="800">
 </p>
