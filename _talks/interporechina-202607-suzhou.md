@@ -11,7 +11,7 @@ location: "July 12-15, Suzhou, China"
 slidesurl: 'http://czqin.github.io/files/interporechina-202607-suzhou-program.pdf'
 ---
 Characterization of multiscale pore structures and multiphysics multiscale numerical modeling
-
+[My presentation can be found here](http://czqin.github.io/files/interporechina-202607-suzhou-ppt.pdf)  
 <p align="left">
   <img src="/images/interporechina-202607-suzhou-2.jpg" width="500">
 </p>
