@@ -1,6 +1,6 @@
 ---
 title: "Keynote talk at the InterPore China Chapter 2026 (2026年国际多孔介质学会中国分会)"
-excerpt: "Characterization of multiscale pore structures and multiphysics multiscale numerical modeling<br/><img src='/images/interporechina-202607-suzhou-1.jpg' width='500'>
+excerpt: "Characterization of multiscale pore structures and multiphysics multiscale numerical modeling<br/><img src='/images/interporechina-202607-suzhou-1.jpg' width='500'>"
 collection: talks
 type: "Keynote Talk"
 permalink: /talks/interporechina-202607-suzhou
