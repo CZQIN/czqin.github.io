@@ -6,11 +6,14 @@ type: "Oral Talk"
 permalink: /talks/interpore-202605-france
 venue: "La Cité Nantes Congress Centre"
 date: 2026-05-19
-location: "Nantes, France"
+location: "May 19-22, Nantes, France"
 slidesurl: 'http://czqin.github.io/files/interpore-202605-france-program.pdf'
 ---
 
 **Pore-Network-Continuum Model for Two-Phase Flow in Porous Media**
 <p align="left">
   <img src="/images/interpore-202605-france-2.jpg" width="500">
+</p>
+<p align="left">
+  <img src="/images/interpore-202605-france-3.jpg" width="800">
 </p>
