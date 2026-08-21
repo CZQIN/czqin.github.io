@@ -1,15 +1,16 @@
 ---
-title: "Invited lecture at China University of Petroleum (East China) (中国石油大学（华东）邀请讲座)"
+title: "Oral talk at the InterPore2026 Annual Meeting (2026年第17届国际多孔介质学会年会)"
 collection: talks
-type: "Talk"
-permalink: /talks/ASCHT-202510-wuhan
-slidesurl: 'http://czqin.github.io/files/ASCHT-202510-wuhan-program.pdf'
-venue: "Optics Valley Kingdom Plaza Hotel"
-date: 2025-10-9 to 2025-10-13
-location: "Wuhan, China"
+type: "Oral Talk"
+permalink: /talks/interpore-202605-france
+venue: "La Cité Nantes Congress Centre"
+date: 2026-05-19
+location: "Nantes, France"
+slidesurl: 'http://czqin.github.io/files/interpore-202605-france-program.pdf'
 ---
 
-Modeling of Flow and Transport in Multiscale Digital Rocks
+**Pore-Network-Continuum Model for Two-Phase Flow in Porous Media**
 <p align="left">
-  <img src="/images/ASCHT-202510-wuhan.jpg" width="500">
+  <img src="/images/interpore-202605-france-1.jpg" width="500">
 </p>
+**May 19–22, 2026**
