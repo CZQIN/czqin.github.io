@@ -16,5 +16,5 @@ Characterization of multiscale pore structures and multiphysics multiscale numer
   <img src="/images/interporechina-202607-suzhou-2.jpg" width="500">
 </p>
 <p align="left">
-  <img src="/images/interporechina-202607-suzhou-3.jpg" width="800">
+  <img src="/images/interporechina-202607-suzhou-3.jpg" width="500">
 </p>
