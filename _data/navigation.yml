@@ -15,7 +15,7 @@ main:
     url: /talks/    
 
   - title: "Moments"
-    url: /portfolio/
+    url: /moments/
 
   - title: "Projects"
     url: /projects/
