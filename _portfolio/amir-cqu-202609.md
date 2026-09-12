@@ -10,3 +10,6 @@ collection: portfolio
 <p align="left">
   <img src="/images/amir-cqu-202609-2s.jpg" alt=" " width="500">
 </p>
+<p align="left">
+  <img src="/images/amir-cqu-202609-3s.JPG" alt=" " width="500">
+</p>
