@@ -7,7 +7,7 @@ date: 2026-09-12
 ---
 
 **Funding: National Natural Science Foundation of China (中国自然科学基金委)**    
-**Period: 2027.01 - 2030.12"**    
+**Period: 2027.01 - 2030.12**    
   
 **项目摘要**   
 致密砂岩储层孔隙结构与矿物构成复杂，压裂液侵入引发的黏土矿物水化膨胀（水敏）与
