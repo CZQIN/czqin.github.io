@@ -4,6 +4,7 @@ collection: projects
 permalink: /projects/NSFC-qin-2026
 date: 2026-09-12
 ---
+
 **Funding: National Natural Science Foundation of China (中国自然科学基金委)**    
 **Period: 2027.01 - 2030.12"**    
   
