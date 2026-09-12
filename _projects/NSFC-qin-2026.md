@@ -4,10 +4,10 @@ collection: projects
 permalink: /projects/NSFC-qin-2026
 date: 2026-09-12
 ---
-Funding: National Natural Science Foundation of China (中国自然科学基金委)  
-Period: 2027.01 - 2030.12"  
+**Funding: National Natural Science Foundation of China (中国自然科学基金委)**    
+**Period: 2027.01 - 2030.12"**    
   
-项目摘要：  
+**项目摘要**   
 致密砂岩储层孔隙结构与矿物构成复杂，压裂液侵入引发的黏土矿物水化膨胀（水敏）与
 毛管力屏障（水锁）对储层形成耦合伤害，导致气体流动能力急剧下降。针对水敏水锁微观耦
 合致伤机制不清的科学难题，本项目提出“原位CT可视化实验提供物理约束，多尺度数字岩心
