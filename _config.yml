@@ -228,7 +228,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /moments/:path/
   talks:
     output: true
     permalink: /:collection/:path/
