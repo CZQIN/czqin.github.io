@@ -6,7 +6,7 @@ author_profile: true
 ---
 <!-- 嵌入自适应网格卡片样式 -->
 
-## 博士后 / Postdoctoral Researchers
+## Faculty & Staff / 全职教师
 
 <div class="team-grid">
 
@@ -24,7 +24,25 @@ author_profile: true
 
 ---
 
-## 博士研究生 / Ph.D. Students
+## Visiting & Adjunct Professors /  客座教授
+
+<div class="team-grid">
+
+  <div class="team-card">
+    <img src="/images/team/zhangsan.jpg" class="team-avatar" alt="张三">
+    <div class="team-info">
+      <div class="team-name">张三 (San Zhang)</div>
+      <div class="team-title">博士后 (2024 – 至今)</div>
+      <div class="team-detail"><strong>研究方向：</strong>数字岩心重构与多尺度模拟</div>
+      <div class="team-detail"><strong>邮箱：</strong>zhangsan@cqu.edu.cn</div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Ph.D. Students / 博士研究生
 
 <div class="team-grid">
 
@@ -52,7 +70,7 @@ author_profile: true
 
 ---
 
-## 硕士研究生 / Master Students
+## Master Students / 硕士研究生 
 
 <div class="team-grid">
 
@@ -69,7 +87,7 @@ author_profile: true
 
 ---
 
-## 毕业生 / Alumni
+## Alumni / 毕业生
 
 * **孙七 (Qi Sun)** — 硕士 (2022–2025) $\rightarrow$ 就职于中国石油 (PetroChina)
 * **周八 (Ba Zhou)** — 博士 (2020–2024) $\rightarrow$ 西南石油大学 讲师
