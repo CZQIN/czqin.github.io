@@ -11,6 +11,20 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
+    <img src="/images/team/TJ.png" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Tian Jian (田键)</div>
+      <div class="team-title"Associated Professor (2026 – Now)</div>
+      <div class="team-detail"><strong>Research interests：</strong>Unconventional oil & gas recovery andmicrofluidics</div>
+      <div class="team-detail"><strong>Email：</strong>jiantian@cqu.edu.cn</div>
+    </div>
+  </div>
+
+</div>
+
+<div class="team-grid">
+
+  <div class="team-card">
     <img src="/images/team/JH.png" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Jiang Han (蒋函)</div>
