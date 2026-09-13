@@ -5,52 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 <!-- 嵌入自适应网格卡片样式 -->
-<style>
-  .team-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 20px;
-    margin-bottom: 40px;
-  }
-  .team-card {
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    padding: 16px;
-    background: #fafafa;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
-  }
-  .team-avatar {
-    width: 85px;
-    height: 85px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid #2b6cb0;
-    flex-shrink: 0;
-  }
-  .team-info {
-    flex-grow: 1;
-  }
-  .team-name {
-    margin: 0 0 4px 0 !important;
-    font-size: 1.1em !important;
-    font-weight: bold;
-    color: #2d3748;
-  }
-  .team-title {
-    margin: 0 0 6px 0;
-    font-size: 0.85em;
-    color: #4a5568;
-  }
-  .team-detail {
-    margin: 2px 0;
-    font-size: 0.82em;
-    color: #718096;
-    line-height: 1.4;
-  }
-</style>
 
 ## 博士后 / Postdoctoral Researchers
 
