@@ -20,9 +20,9 @@ The School of Resources and Saftey Engineering at [Chongqing University](https:/
   <img src="/images/cqu-1.png" alt="Huxi campus" width="1000">
 </p>
 
-<h2 style="color: blue;">Graduate Opportunities (研究生、博士生招生宣传)</h2>
+<h2 style="color: blue;">Graduate Opportunities (研究生、博士生招生宣传)</h2>  
 **Join Our Research Team**  
-**多孔介质与渗流研究团队长期招收硕士、博士研究生**  
+**多孔介质与渗流研究团队长期招收硕士、博士研究生**    
 
 Our group focuses on flow and transport processes in porous media, and addresses challenges in energy transition and subsurface energy development. Our research covers unconventional oil and gas development, underground energy storage and CO₂ storage, and electrochemical energy systems. We seek to understand fundamental mechanisms of flow, transport, and multiphysics coupling in complex porous media, while advancing their applications through theoretical, experimental, and numerical approaches. We maintain long-term collaborations with leading universities and research groups in China and abroad, providing students with opportunities for international exchange, joint training, research visits, and further study. International students are also warmly welcome to pursue Master’s or PhD degrees at Chongqing University.  
 
