@@ -6,4 +6,7 @@ excerpt: "The proposed numerical framework for gas-water flow in tight sandstone
 date: 2025-09-28
 ---
 
-
+**PI: Chao-Zhong Qin**  
+**Funding:**
+[1] 致密砂岩微观孔隙结构分析测试, 中国石油化工股份有限公司石油勘探开发研究院, 2024-2026
+[2] 致密储层三维成像与CT重构、孔缝分析, 中国石油集团科学技术研究院有限公司, 2026
