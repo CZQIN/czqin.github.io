@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Group"
+title: "Group Members (团队成员)"
 permalink: /group/
 author_profile: true
 ---
