@@ -11,12 +11,12 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/zhangsan.jpg" class="team-avatar" alt="张三">
+    <img src="/images/team/JH.png" class="team-avatar" alt=" ">
     <div class="team-info">
-      <div class="team-name">张三 (San Zhang)</div>
-      <div class="team-title">博士后 (2024 – 至今)</div>
-      <div class="team-detail"><strong>研究方向：</strong>数字岩心重构与多尺度模拟</div>
-      <div class="team-detail"><strong>邮箱：</strong>zhangsan@cqu.edu.cn</div>
+      <div class="team-name">Jiang Han (蒋函)</div>
+      <div class="team-title">Assistant Professor (2024 – Now)</div>
+      <div class="team-detail"><strong>Research interests：</strong>Rock typing and digital rock physics</div>
+      <div class="team-detail"><strong>Email：</strong>hanjiang@cqu.edu.cn</div>
     </div>
   </div>
 
