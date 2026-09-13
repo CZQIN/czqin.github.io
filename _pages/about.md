@@ -19,3 +19,6 @@ The School of Resources and Saftey Engineering at [Chongqing University](https:/
 <p align="left">
   <img src="/images/cqu-1.png" alt="Huxi campus" width="1000">
 </p>
+
+<h2 style="color: blue;">Graduate Opportunities (研究生、博士生招生宣传)</h2>
+
