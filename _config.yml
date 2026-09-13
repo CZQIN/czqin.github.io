@@ -23,7 +23,7 @@ repository               : "CZQIN/czqin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-4.png"
+  avatar           : "profile-3.png"
   name             : "Chao-Zhong Qin (秦朝中)"
   pronouns         : # example: "she/her"  
   bio              : "Porous media research<br>Flow and transport in porous media"
