@@ -34,17 +34,17 @@ author_profile: true
 
 ---
 
-## Visiting & Adjunct Professors /  客座教授
+## Guest Professors / 客座教授
 
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/zhangsan.jpg" class="team-avatar" alt="张三">
+    <img src="/images/team/SMH.png" class="team-avatar" alt="张三">
     <div class="team-info">
-      <div class="team-name">张三 (San Zhang)</div>
-      <div class="team-title">博士后 (2024 – 至今)</div>
-      <div class="team-detail"><strong>研究方向：</strong>数字岩心重构与多尺度模拟</div>
-      <div class="team-detail"><strong>邮箱：</strong>zhangsan@cqu.edu.cn</div>
+      <div class="team-name">Majid Hassanizadeh</div>
+      <div class="team-title">Senior professor (2025 – Now)</div>
+      <div class="team-detail"><strong>Research interests：</strong>Fundamentals of flow and transport in porous media</div>
+      <div class="team-detail"><strong>邮箱：</strong>S.M.Hassanizadeh@uu.nl</div>
     </div>
   </div>
 
