@@ -39,7 +39,7 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/SMH.png" class="team-avatar" alt="张三">
+    <img src="/images/team/SMH.png" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Majid Hassanizadeh</div>
       <div class="team-title">Senior professor (2025 – Now)</div>
@@ -49,7 +49,7 @@ author_profile: true
   </div>
 
   <div class="team-card">
-    <img src="/images/team/XSC.png" class="team-avatar" alt="张三">
+    <img src="/images/team/XSC.png" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Xu Shicheng</div>
       <div class="team-title">Adjunct Professor (2025 – Now)</div>
@@ -76,16 +76,6 @@ author_profile: true
     </div>
   </div>
 
-  <div class="team-card">
-    <img src="/images/team/wangwu.jpg" class="team-avatar" alt="王五">
-    <div class="team-info">
-      <div class="team-name">王五 (Wu Wang)</div>
-      <div class="team-title">2024 级博士生</div>
-      <div class="team-detail"><strong>研究方向：</strong>孔隙网络模型与 GPU 并行计算</div>
-      <div class="team-detail"><strong>邮箱：</strong>wangwu@cqu.edu.cn</div>
-    </div>
-  </div>
-
 </div>
 
 ---
@@ -108,6 +98,3 @@ author_profile: true
 ---
 
 ## Alumni / 毕业生
-
-* **孙七 (Qi Sun)** — 硕士 (2022–2025) $\rightarrow$ 就职于中国石油 (PetroChina)
-* **周八 (Ba Zhou)** — 博士 (2020–2024) $\rightarrow$ 西南石油大学 讲师
