@@ -48,6 +48,16 @@ author_profile: true
     </div>
   </div>
 
+  <div class="team-card">
+    <img src="/images/team/XSC.png" class="team-avatar" alt="张三">
+    <div class="team-info">
+      <div class="team-name">Xu Shicheng</div>
+      <div class="team-title">Adjunct Professor (2025 – Now)</div>
+      <div class="team-detail"><strong>Research interests：</strong>PEM fuel cells</div>
+      <div class="team-detail"><strong>邮箱：</strong>  </div>
+    </div>
+  </div>
+  
 </div>
 
 ---
