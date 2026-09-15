@@ -51,7 +51,7 @@ author_profile: true
   <div class="team-card">
     <img src="/images/team/XSC.png" class="team-avatar" alt="">
     <div class="team-info">
-      <div class="team-name">Xu Shicheng</div>
+      <div class="team-name">Xu Shicheng, 怀柔国家实验室</div>
       <div class="team-title">Adjunct Professor (2025 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>PEM fuel cells</div>
       <div class="team-detail"><strong>Email：</strong>xushicheng@hrl.ac.cn</div>
