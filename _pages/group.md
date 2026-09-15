@@ -85,6 +85,26 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
+    <img src="/images/team/ZL.jpg" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Zhu Lin (朱琳)</div>
+      <div class="team-title">2024级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>深部煤岩裂隙表征与数值模拟</div>
+      <div class="team-detail"><strong>邮箱：</strong>3152619783@qq.com</div>
+    </div>
+  </div>
+
+ <div class="team-card">
+    <img src="/images/team/LZY.jpg" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Li Zhiying (李志颖)</div>
+      <div class="team-title">2024级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>基于微流控技术的双重孔隙介质微观渗吸模式与返排行为研究</div>
+      <div class="team-detail"><strong>邮箱：</strong>202420021065@cqu.edu.cn</div>
+    </div>
+  </div>
+
+   <div class="team-card">
     <img src="/images/team/XWM.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Xie Weiming (谢炜铭)</div>
@@ -101,6 +121,16 @@ author_profile: true
       <div class="team-title">2025 级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>中高渗砂岩微观剩余油在线CT表征</div>
       <div class="team-detail"><strong>邮箱：</strong>202520021052t@stu.cqu.edu.cn</div>
+    </div>
+ </div>
+
+ <div class="team-card">
+    <img src="/images/team/TWZ.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Tan Weizhen (覃伟真)</div>
+      <div class="team-title">2026 级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>微流控渗流研究</div>
+      <div class="team-detail"><strong>邮箱：</strong>wz0801q@163.com</div>
     </div>
  </div>
 
