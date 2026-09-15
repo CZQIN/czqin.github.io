@@ -67,12 +67,12 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/lisi.jpg" class="team-avatar" alt="李四">
+    <img src="/images/team/WZW.png" class="team-avatar" alt=" ">
     <div class="team-info">
-      <div class="team-name">李四 (Si Li)</div>
-      <div class="team-title">2023 级博士生</div>
-      <div class="team-detail"><strong>研究方向：</strong>致密砂岩水敏水锁致伤机制</div>
-      <div class="team-detail"><strong>邮箱：</strong>lisi@cqu.edu.cn</div>
+      <div class="team-name">Wang Zhiwei (王志伟)</div>
+      <div class="team-title">2023级博士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>页岩数字岩心构建及非线性渗流机理</div>
+      <div class="team-detail"><strong>邮箱：</strong>20232001013@stu.cqu.edu.cn</div>
     </div>
   </div>
 
@@ -85,14 +85,24 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
+    <img src="/images/team/XWM.png" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Xie Weiming (谢炜铭)</div>
+      <div class="team-title">2025级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>盐穴盖层密闭性与岩心气体突破压力</div>
+      <div class="team-detail"><strong>邮箱：</strong>xwmtle@qq.com</div>
+    </div>
+  </div>
+
+  <div class="team-card">
     <img src="/images/team/zhaoliu.jpg" class="team-avatar" alt="赵六">
     <div class="team-info">
       <div class="team-name">赵六 (Liu Zhao)</div>
       <div class="team-title">2025 级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>微观 CT 图像处理</div>
     </div>
-  </div>
-
+ </div>
+ 
 </div>
 
 ---
