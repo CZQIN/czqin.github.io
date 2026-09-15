@@ -67,7 +67,7 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/WZW.png" class="team-avatar" alt=" ">
+    <img src="/images/team/WZW.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Wang Zhiwei (王志伟)</div>
       <div class="team-title">2023级博士生</div>
@@ -85,7 +85,7 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/XWM.png" class="team-avatar" alt=" ">
+    <img src="/images/team/XWM.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Xie Weiming (谢炜铭)</div>
       <div class="team-title">2025级硕士生</div>
