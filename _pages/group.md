@@ -42,7 +42,7 @@ author_profile: true
     <img src="/images/team/SMH.png" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Majid Hassanizadeh</div>
-      <div class="team-title">Senior professor (2025 – Now)</div>
+      <div class="team-title">Senior professor (2024 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>Fundamentals of flow and transport in porous media</div>
       <div class="team-detail"><strong>Email：</strong>S.M.Hassanizadeh@uu.nl</div>
     </div>
@@ -54,7 +54,7 @@ author_profile: true
       <div class="team-name">Xu Shicheng</div>
       <div class="team-title">Adjunct Professor (2025 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>PEM fuel cells</div>
-      <div class="team-detail"><strong>Email：</strong>  </div>
+      <div class="team-detail"><strong>Email：</strong>xushicheng@hrl.ac.cn</div>
     </div>
   </div>
   
