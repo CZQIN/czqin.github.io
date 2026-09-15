@@ -94,7 +94,7 @@ author_profile: true
     </div>
   </div>
 
-  <div class="team-card">
+<div class="team-card">
     <img src="/images/team/WYW.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Wang Yiwen (王祎雯)</div>
@@ -103,7 +103,19 @@ author_profile: true
       <div class="team-detail"><strong>邮箱：</strong>202520021052t@stu.cqu.edu.cn</div>
     </div>
  </div>
- 
+
+ <div class="team-card">
+    <img src="/images/team/YZH.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Yue Ziheng (岳子恒)</div>
+      <div class="team-title">2026 级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>致密砂岩气水流动</div>
+      <div class="team-detail"><strong>邮箱：</strong>202620131102@cqu.edu.cn</div>
+    </div>
+ </div>
+
+
+
 </div>
 
 ---
