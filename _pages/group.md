@@ -41,7 +41,7 @@ author_profile: true
   <div class="team-card">
     <img src="/images/team/SMH.png" class="team-avatar" alt="">
     <div class="team-info">
-      <div class="team-name">Majid Hassanizadeh</div>
+      <div class="team-name">Majid Hassanizadeh, Utrecht University</div>
       <div class="team-title">Senior professor (2024 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>Fundamentals of flow and transport in porous media</div>
       <div class="team-detail"><strong>Email：</strong>S.M.Hassanizadeh@uu.nl</div>
