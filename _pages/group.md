@@ -95,11 +95,12 @@ author_profile: true
   </div>
 
   <div class="team-card">
-    <img src="/images/team/zhaoliu.jpg" class="team-avatar" alt="赵六">
+    <img src="/images/team/WYW.jpg" class="team-avatar" alt="">
     <div class="team-info">
-      <div class="team-name">赵六 (Liu Zhao)</div>
+      <div class="team-name">Wang Yiwen (王祎雯)</div>
       <div class="team-title">2025 级硕士生</div>
-      <div class="team-detail"><strong>研究方向：</strong>微观 CT 图像处理</div>
+      <div class="team-detail"><strong>研究方向：</strong>中高渗砂岩微观剩余油在线CT表征</div>
+      <div class="team-detail"><strong>邮箱：</strong>202520021052t@stu.cqu.edu.cn</div>
     </div>
  </div>
  
