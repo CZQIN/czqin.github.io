@@ -76,6 +76,16 @@ author_profile: true
     </div>
   </div>
 
+  <div class="team-card">
+    <img src="/images/team/HHN.jpg" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Hou Haonan (侯浩楠)</div>
+      <div class="team-title">2025级博士生 (co-Supervisor)</div>
+      <div class="team-detail"><strong>研究方向：</strong>裂隙渗流模拟、深度生成模型</div>
+      <div class="team-detail"><strong>邮箱：</strong>h1275745795@163.com</div>
+    </div>
+  </div>
+  
    <div class="team-card">
     <img src="/images/team/CYB.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
