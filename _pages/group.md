@@ -80,7 +80,7 @@ author_profile: true
     <img src="/images/team/CYB.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Chu Yongbo (楚泳波)</div>
-      <div class="team-title">2026级博士生</div>
+      <div class="team-title">2026级博士生 (co-Supervisor)</div>
       <div class="team-detail"><strong>研究方向：</strong>二氧化碳电化学还原</div>
       <div class="team-detail"><strong>邮箱：</strong>Yongbo_Chu@163.com</div>
     </div>
