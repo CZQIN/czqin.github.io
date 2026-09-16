@@ -148,7 +148,7 @@ author_profile: true
  <div class="team-card">
     <img src="/images/team/TWZ.jpg" class="team-avatar" alt="">
     <div class="team-info">
-      <div class="team-name">Tan Weizhen (覃伟真)</div>
+      <div class="team-name">Qin Weizhen (覃伟真)</div>
       <div class="team-title">2026 级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>微流控渗流研究</div>
       <div class="team-detail"><strong>邮箱：</strong>wz0801q@163.com</div>
