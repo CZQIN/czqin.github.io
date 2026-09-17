@@ -182,3 +182,23 @@ author_profile: true
 ---
 
 ## Alumni / 毕业生
+
+<div class="team-grid">
+
+
+<div class="team-card">
+    <img src="/images/team/SBW.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Shi Bowen (史博文)</div>
+      <div class="team-title">2020 级博士生</div>
+      <div class="team-detail"><strong>现单位：</strong>北京大学</div>
+      <div class="team-detail"><strong>工作：</strong>博士后</div>
+      <div class="team-detail"><strong>邮箱：</strong>bwshi@pku.edu.cn</div>
+    </div>
+  </div>
+  
+  
+  </div>
+
+
+
