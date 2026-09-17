@@ -16,7 +16,7 @@ author_profile: true
       <div class="team-name">Tian Jian (田键)</div>
       <div class="team-title">Associated Professor (2025 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>Unconventional oil & gas recovery and microfluidics</div>
-      <div class="team-detail"><strong>Email：</strong>jiantian@cqu.edu.cn</div>
+      <div class="team-detail"><strong>Email：</strong>tianjian2171@cqu.edu.cn</div>
     </div>
   </div>
   
