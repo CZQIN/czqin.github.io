@@ -11,7 +11,7 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
-    <img src="/images/team/CQ.png" class="team-avatar" alt=" ">
+    <img src="/images/team/CQ.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Chen Qiang (陈强)</div>
       <div class="team-title">Associated Professor (2023 – Now)</div>
