@@ -16,8 +16,7 @@ author_profile: true
       <div class="team-name">Chen Qiang (陈强)</div>
       <div class="team-title">Associated Professor (2023 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>Reactive transport in oil/gas reservoirs</div>
-      <div class="team-detail"><strong>Email：</strong> chenqiang2019@cqu.edu.cn</div>
-      
+      <div class="team-detail"><strong>Email：</strong> chenqiang2019@cqu.edu.cn</div 
     </div>  
   </div>
 
