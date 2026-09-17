@@ -175,6 +175,15 @@ author_profile: true
     </div>
  </div>
 
+ <div class="team-card">
+    <img src="/images/team/ABBAS.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Abbas Syed Ali</div>
+      <div class="team-title">2026级硕士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>Underground hydrogen storage</div>
+      <div class="team-detail"><strong>邮箱：</strong>syedaliabbas413@gmail.com </div>
+    </div>
+ </div>
 
 
 </div>
