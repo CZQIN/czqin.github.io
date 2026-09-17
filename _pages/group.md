@@ -198,7 +198,7 @@ author_profile: true
   </div>
 
 <div class="team-card">
-    <img src="/images/team/GJQ.jpg" class="team-avatar" alt="">
+    <img src="/images/team/JGQ.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Jia Guiqi (贾桂齐)</div>
       <div class="team-title">2021级硕士生</div>
