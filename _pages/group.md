@@ -149,7 +149,7 @@ author_profile: true
     <img src="/images/team/WYW.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Wang Yiwen (王祎雯)</div>
-      <div class="team-title">2025 级硕士生</div>
+      <div class="team-title">2025级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>中高渗砂岩微观剩余油在线CT表征</div>
       <div class="team-detail"><strong>邮箱：</strong>202520021052t@stu.cqu.edu.cn</div>
     </div>
@@ -159,7 +159,7 @@ author_profile: true
     <img src="/images/team/TWZ.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Qin Weizhen (覃伟真)</div>
-      <div class="team-title">2026 级硕士生</div>
+      <div class="team-title">2026级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>微流控渗流研究</div>
       <div class="team-detail"><strong>邮箱：</strong>wz0801q@163.com</div>
     </div>
@@ -169,7 +169,7 @@ author_profile: true
     <img src="/images/team/YZH.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Yue Ziheng (岳子恒)</div>
-      <div class="team-title">2026 级硕士生</div>
+      <div class="team-title">2026级硕士生</div>
       <div class="team-detail"><strong>研究方向：</strong>致密砂岩气水流动</div>
       <div class="team-detail"><strong>邮箱：</strong>202620131102@cqu.edu.cn</div>
     </div>
@@ -190,7 +190,7 @@ author_profile: true
     <img src="/images/team/SBW.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Shi Bowen (史博文)</div>
-      <div class="team-title">2020 级博士生</div>
+      <div class="team-title">2020级博士生</div>
       <div class="team-detail"><strong>现单位：</strong>北京大学</div>
       <div class="team-detail"><strong>工作：</strong>博士后</div>
       <div class="team-detail"><strong>邮箱：</strong>bwshi@pku.edu.cn</div>
