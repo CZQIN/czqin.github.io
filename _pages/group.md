@@ -17,7 +17,7 @@ author_profile: true
       <div class="team-title">Associated Professor (2023 – Now)</div>
       <div class="team-detail"><strong>Research interests：</strong>Reactive transport in oil/gas reservoirs</div>
       <div class="team-detail"><strong>Email：</strong> chenqiang2019@cqu.edu.cn</div 
-      <div class="team-detail"><strong>CV: </strong><a href="/files/CV_Tian_Jian.pdf" target="_blank">PDF</a></div>                                                                 
+      <div class="team-detail"><strong>CV: </strong><a href="/files/CQ-CV.pdf" target="_blank">PDF</a></div>    
     </div>  
   </div>
 
