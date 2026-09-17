@@ -77,6 +77,16 @@ author_profile: true
   </div>
 
   <div class="team-card">
+    <img src="/images/team/RJQ.jpg" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Rong Jianqi (荣健淇)</div>
+      <div class="team-title">2024级博士生</div>
+      <div class="team-detail"><strong>研究方向：</strong>致密砂岩与多尺度数字岩心渗流模拟</div>
+      <div class="team-detail"><strong>邮箱：</strong>rongjianqi@stu.cqu.edu.cn</div>
+    </div>
+  </div>
+  
+  <div class="team-card">
     <img src="/images/team/HHN.jpg" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Hou Haonan (侯浩楠)</div>
