@@ -196,6 +196,17 @@ author_profile: true
       <div class="team-detail"><strong>邮箱：</strong>bwshi@pku.edu.cn</div>
     </div>
   </div>
+
+<div class="team-card">
+    <img src="/images/team/GJQ.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Jia Guiqi (贾桂齐)</div>
+      <div class="team-title">2021级硕士生</div>
+      <div class="team-detail"><strong>现单位：</strong>煤炭科学技术研究院有限公司</div>
+      <div class="team-detail"><strong>工作：</strong>工程师</div>
+      <div class="team-detail"><strong>邮箱：</strong>jiagq0516@163.com</div>
+    </div>
+  </div>
   
   
   </div>
