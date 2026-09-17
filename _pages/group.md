@@ -11,6 +11,17 @@ author_profile: true
 <div class="team-grid">
 
   <div class="team-card">
+    <img src="/images/team/CQ.png" class="team-avatar" alt=" ">
+    <div class="team-info">
+      <div class="team-name">Chen Qiang (陈强)</div>
+      <div class="team-title">Associated Professor (2023 – Now)</div>
+      <div class="team-detail"><strong>Research interests：</strong>Reactive transport in oil/gas reservoirs</div>
+      <div class="team-detail"><strong>Email：</strong> chenqiang2019@cqu.edu.cn</div>
+      <div class="team-detail"><strong>CV：<a href="/files/CQ-CV.pdf" target="_blank">View CV</div>
+    </div>  
+  </div>
+
+  <div class="team-card">
     <img src="/images/team/TJ.png" class="team-avatar" alt=" ">
     <div class="team-info">
       <div class="team-name">Tian Jian (田键)</div>
