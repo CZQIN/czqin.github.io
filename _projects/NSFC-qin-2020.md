@@ -5,6 +5,10 @@ permalink: /projects/NSFC-qin-2020
 excerpt: "The proposed framework<br/>自发渗吸、多相渗流、数字岩心及表征、孔隙网络模型、相对渗透率<br/><img src='/images/NSFC-qin-2020-GA.jpg' width='700'>"
 date: 2021-01-01
 ---
+**PI: Chao-Zhong Qin**  
+**Funding: National Natural Science Foundation of China (中国自然科学基金委)**  
+**Period: 2021.01 - 2024.12**    
+
 **摘要**    
 自发渗吸是很多工业应用和地下能源开采的重要机制，定量的微观与宏观模型对于揭示复
 杂渗吸机理和提供可靠工程预测至关重要，但目前这方面的研究还比较欠缺。本项目拟发展高
