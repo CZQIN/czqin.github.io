@@ -227,7 +227,17 @@ author_profile: true
       <div class="team-detail"><strong>邮箱：</strong>jiagq0516@163.com</div>
     </div>
   </div>
-  
+
+<div class="team-card">
+    <img src="/images/team/ZXY.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Zhao Xingyuan (赵星圆)</div>
+      <div class="team-title">2022级硕士生</div>
+      <div class="team-detail"><strong>现单位：</strong>深圳市燃气集团股份有限公司</div>
+      <div class="team-detail"><strong>工作：</strong>四级职工</div>
+      <div class="team-detail"><strong>邮箱：</strong>zxy10060729@163.com</div>
+    </div>
+  </div>
   
   </div>
 
