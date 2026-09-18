@@ -238,6 +238,19 @@ author_profile: true
       <div class="team-detail"><strong>邮箱：</strong>zxy10060729@163.com</div>
     </div>
   </div>
+
+  <div class="team-card">
+    <img src="/images/team/GZH.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Gao Zihan (高梓涵)</div>
+      <div class="team-title">2023级硕士生</div>
+      <div class="team-detail"><strong>现单位：</strong></div>
+      <div class="team-detail"><strong>工作：</strong></div>
+      <div class="team-detail"><strong>邮箱：</strong>202320131131@stu.cqu.edu.cn</div>
+    </div>
+  </div>
+
+
   
   </div>
 
