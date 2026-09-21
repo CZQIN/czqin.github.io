@@ -3,7 +3,7 @@ title: "Visualization of imbibition front stability in hybrid wire-mesh media wi
 collection: publications
 category: manuscripts
 permalink: /publication/tian-ICHMT-2026
-excerpt: "Laminated sandstone; rock‐typing; Minkowski measures; upscaling of relative permeability"
+excerpt: "Hybrid porous media; Wicking structures; Metal wire mesh; Interfacial instability; Horizontal imbibition<br/><img src='/images/papers/tian-ICHMT-2026-GA.jpg' width='500'>"
 date: 2026-8-1
 venue: 'International Communications in Heat and Mass Transfer'
 paperurl: 'http://czqin.github.io/files/tian-ICHMT-2026-s.pdf'
