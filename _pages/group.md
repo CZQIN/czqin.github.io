@@ -218,6 +218,17 @@ author_profile: true
   </div>
 
 <div class="team-card">
+    <img src="/images/team/WX.jpg" class="team-avatar" alt="">
+    <div class="team-info">
+      <div class="team-name">Wang Xin (王馨)</div>
+      <div class="team-title">2020级博士生</div>
+      <div class="team-detail"><strong>现单位：</strong>重庆大学</div>
+      <div class="team-detail"><strong>工作：</strong>博士后</div>
+      <div class="team-detail"><strong>邮箱：</strong>xinwang15@outlook.com</div>
+    </div>
+  </div>
+
+<div class="team-card">
     <img src="/images/team/JGQ.jpg" class="team-avatar" alt="">
     <div class="team-info">
       <div class="team-name">Jia Guiqi (贾桂齐)</div>
