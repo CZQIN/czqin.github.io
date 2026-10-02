@@ -1,8 +1,8 @@
 ---
-title: "Prof. Adam Szymkiewicz's visit to Chongqing University<br/>Adam Szymkiewicz教授来访重庆大学"
+title: "Prof. Majid Hassanizadeh's visit to Chongqing University<br/>Majid Hassanizadeh教授来访重庆大学"
 excerpt: "Science Center of Chongqing University (重庆大学科学中心)<br/>Group photo with my team <br/><img src='/images/adam-cqu-202604-1.jpg' width='500' >"
 venue: "Chongqing, China"
-date: 2026-4-23
+date: 2026-09-21
 location: "chongqing, China"
 collection: portfolio
 ---
