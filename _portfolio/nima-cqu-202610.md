@@ -7,6 +7,7 @@ location: "chongqing, China"
 collection: portfolio
 ---
 
+**Shokri教授参观团队原位CT可视化实验室**  
 <p align="left">
   <img src="/images/moments/nima-cqu-202610-2.jpg" alt=" " width="500">
 </p>
