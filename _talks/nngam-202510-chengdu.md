@@ -7,8 +7,8 @@ venue: "成都世纪城国际会议中心"
 date: 2026-10-22
 location: "October 21-22, Chengdu, China"
 ---
-Construction of shale matrix digital cores and numerical prediction of permeability based on cross‑scale information fusion
-跨尺度信息融合的页岩基质数字岩心构建与渗透率数值预测
+Construction of shale matrix digital cores and numerical prediction of permeability based on cross‑scale information fusion  
+跨尺度信息融合的页岩基质数字岩心构建与渗透率数值预测  
 [My presentation can be found here](http://czqin.github.io/files/nngam-202510-chengdu-ppt.pdf)  
 <p align="left">
   <img src="/images/talks/nngam-202510-chengdu-1.jpg" width="500">
