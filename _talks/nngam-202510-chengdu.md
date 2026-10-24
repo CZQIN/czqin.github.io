@@ -1,16 +1,15 @@
 ---
-title: "Invited talk at the Annual Meeting of Chinese Geoscience Union 2026 (2026年中国地球科学联合学术年会)"
-excerpt: "深层煤岩岩心裂隙系统原位CT表征与数值模拟<br/>In-situ CT characterization and numerical simulations of fracture systems in deep coal cores<br/><img src='/images/talks/cgu-202510-hangzhou-1.jpg' width='500'>"
+title: "Invited talk at the 36th National Natural Gas Academic Annual Conference 2026 (2026年第36届全国天然气学术年会)"
+excerpt: "跨尺度信息融合的页岩基质数字岩心构建与渗透率数值预测<br/>Construction of shale matrix digital cores and numerical prediction of permeability based on cross‑scale information fusion<br/><img src='/images/talks/nngam-202510-chengdu-1.jpg' width='500'>"
 collection: talks
-type: "Invited Talk"
-permalink: /talks/cgu-202510-hangzhou
-venue: "杭州国际博览中心"
-date: 2026-10-19
-location: "October 17-20, Hangzhou, China"
+permalink: /talks/nngam-202510-chengdu
+venue: "成都世纪城国际会议中心"
+date: 2026-10-22
+location: "October 21-22, Chengdu, China"
 ---
-In-situ CT characterization and numerical simulations of fracture systems in deep coal cores  
-深层煤岩岩心裂隙系统原位CT表征与数值模拟  
-[My presentation can be found here](http://czqin.github.io/files/cgu-202510-hangzhou-ppt.pdf)  
+Construction of shale matrix digital cores and numerical prediction of permeability based on cross‑scale information fusion
+跨尺度信息融合的页岩基质数字岩心构建与渗透率数值预测
+[My presentation can be found here](http://czqin.github.io/files/nngam-202510-chengdu-ppt.pdf)  
 <p align="left">
-  <img src="/images/talks/cgu-202510-hangzhou-2.jpg" width="500">
+  <img src="/images/talks/nngam-202510-chengdu-1.jpg" width="500">
 </p>
