@@ -8,6 +8,6 @@ date: 2026-10-11
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/wang-AWR-2026.pdf'
 citation: 'Zhiwei Wang, Jianqi Rong, Bowen Shi, Dongchen Liu, Yingfang Zhou, S. Majid Hassanizadeh, Yongfei Yang, Chao-Zhong Qin, A multiscale digital-rock workflow for shale-matrix flow characterization:
-Application to permeability prediction, Advances in Water Resources, 218, 105531, 2026, https://doi.org/10.1016/j.advwatres.2024.104859.'
+Application to permeability prediction, Advances in Water Resources, 218, 105531, 2026, https://doi.org/10.1016/j.advwatres.2026.105531.'
 ---
 
