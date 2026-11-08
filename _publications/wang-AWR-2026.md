@@ -3,7 +3,7 @@ title: "A multiscale digital-rock workflow for shale-matrix flow characterizatio
 collection: publications
 category: manuscripts
 permalink: /publication/wang-AWR-2026
-excerpt: "<p>Digital rocks reconstruction; Shale matrix; Pore connectivity; Multiscale pore-network model</p> <p><img src='/images/wang-AWR-2026-i-1.jpg' width='500'></p>"
+excerpt: "<p>Digital rocks reconstruction; Shale matrix; Pore connectivity; Multiscale pore-network model</p> <p><img src='/images/papers/wang-AWR-2026-i-1.jpg' width='500'></p>"
 date: 2026-10-11
 venue: 'Advances in Water Resources'
 paperurl: 'http://czqin.github.io/files/wang-AWR-2026.pdf'
